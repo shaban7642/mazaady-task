@@ -123,8 +123,8 @@ const QrCodeSvg = ({ className }: { className: string }) => (
             />
         </g>
         <path
-            fill-rule='evenodd'
-            clip-rule='evenodd'
+            fillRule='evenodd'
+            clipRule='evenodd'
             d='M20 0C8.9543 0 0 8.95431 0 20V293C0 304.046 8.95431 313 20 313H338C349.046 313 358 304.046 358 293V20C358 8.95431 349.046 0 338 0H20ZM38 20.494C28.0589 20.494 20 28.553 20 38.4941V274.046C20 283.987 28.0589 292.046 38 292.046H319.711C329.652 292.046 337.711 283.987 337.711 274.046V38.494C337.711 28.5529 329.652 20.494 319.711 20.494H38Z'
             fill='url(#paint3_linear_1_397)'
         />
@@ -156,8 +156,8 @@ const QrCodeSvg = ({ className }: { className: string }) => (
                 y2='66.8747'
                 gradientUnits='userSpaceOnUse'
             >
-                <stop stop-color='#D20653' />
-                <stop offset='1' stop-color='#FF951D' />
+                <stop stopColor='#D20653' />
+                <stop offset='1' stopColor='#FF951D' />
             </linearGradient>
             <linearGradient
                 id='paint1_linear_1_397'
@@ -167,8 +167,8 @@ const QrCodeSvg = ({ className }: { className: string }) => (
                 y2='66.8676'
                 gradientUnits='userSpaceOnUse'
             >
-                <stop stop-color='#D20653' />
-                <stop offset='1' stop-color='#FF951D' />
+                <stop stopColor='#D20653' />
+                <stop offset='1' stopColor='#FF951D' />
             </linearGradient>
             <linearGradient
                 id='paint2_linear_1_397'
@@ -178,8 +178,8 @@ const QrCodeSvg = ({ className }: { className: string }) => (
                 y2='79.9936'
                 gradientUnits='userSpaceOnUse'
             >
-                <stop stop-color='#D20653' />
-                <stop offset='1' stop-color='#FF951D' />
+                <stop stopColor='#D20653' />
+                <stop offset='1' stopColor='#FF951D' />
             </linearGradient>
             <linearGradient
                 id='paint3_linear_1_397'
@@ -189,8 +189,8 @@ const QrCodeSvg = ({ className }: { className: string }) => (
                 y2='313'
                 gradientUnits='userSpaceOnUse'
             >
-                <stop stop-color='#D20653' />
-                <stop offset='1' stop-color='#FF951D' />
+                <stop stopColor='#D20653' />
+                <stop offset='1' stopColor='#FF951D' />
             </linearGradient>
             <image
                 id='image0_1_397'
